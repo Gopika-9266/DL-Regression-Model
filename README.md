@@ -129,7 +129,8 @@ print("="*40)
 ```
 
 ### Dataset Information
-![image](https://github.com/user-attachments/assets/0613f58b-f33b-4bcd-b881-3cb0a814833e)
+![image](https://github.com/user-attachments/assets/2c88aa6b-54e2-46fb-bfcb-81d282d91efd)
+
 
 
 ## OUTPUT
@@ -141,7 +142,7 @@ print("="*40)
 
 
 ### New Sample Data Prediction
-![image](https://github.com/user-attachments/assets/bdb2d01e-f99b-4de9-abdc-0e2bdeaa6e16)
+![image](https://github.com/user-attachments/assets/2310b2d6-776a-4d7a-93a4-28d8502a1b86)
 
 
 ## RESULT
